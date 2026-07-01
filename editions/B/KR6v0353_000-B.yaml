@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0353/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩提道次第論攝頌
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0054.xml
+    old_id: B10n0054
+hash: sha256:20b28813515574a9e37d5a026e0b322c0adedb520d73fa3ee034b235f9bc1a6e

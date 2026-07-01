@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6v0353/v1
+canonical_location: https://kanripo.org/bkk/KR6v0353/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩提道次第論攝頌
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0054.xml
+    old_id: B10n0054
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0353_000.yaml, hash: 'sha256:20b28813515574a9e37d5a026e0b322c0adedb520d73fa3ee034b235f9bc1a6e'}
+  - {seq: 1, filename: KR6v0353_001.yaml, hash: 'sha256:2d876055e6705c9def9f246dda88f440fd90b9387399dfcfe28d7b9a493e6ba4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0353_001.markers.yaml, hash: 'sha256:9f56f3f175659c12648df46b1d9cb2c829d4aaab02fc73987680cec7aef82966'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0353_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 1054
+  label: 菩提道次第論攝頌（又名諸善樂根本頌）
+  type: juan
+  level: 1
+hash: sha256:a44d420d9b53d3087bf0cb453122859bf1af3240fda7f62a11e0fed03a8d9095
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: B
