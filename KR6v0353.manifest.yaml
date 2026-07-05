@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6v0353_000.yaml, hash: 'sha256:20b28813515574a9e37d5a026e0b322c0adedb520d73fa3ee034b235f9bc1a6e'}
-  - {seq: 1, filename: KR6v0353_001.yaml, hash: 'sha256:2d876055e6705c9def9f246dda88f440fd90b9387399dfcfe28d7b9a493e6ba4'}
+  - {seq: 1, filename: KR6v0353_001.yaml, hash: 'sha256:5bdd0282bc55b156c08a5ce11ba26e76a3f32e3fc51670c3b0a2d475c8d9a0ea'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0353_001.markers.yaml, hash: 'sha256:9f56f3f175659c12648df46b1d9cb2c829d4aaab02fc73987680cec7aef82966'}
+  - {seq: 0, role: markers, filename: assets/KR6v0353_000.markers.yaml, hash: 'sha256:b1522694597bbc9719d0209936b5ec404ee39ca29a2f3f32bdb0be89035e0561'}
+  - {seq: 1, role: markers, filename: assets/KR6v0353_001.markers.yaml, hash: 'sha256:5fc34a688da7ecef56ab07f2a05ed0371e1eef29bd1c197a05cf0edee908bd2a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -28,9 +29,6 @@ table_of_contents:
   label: 菩提道次第論攝頌（又名諸善樂根本頌）
   type: juan
   level: 1
-hash: sha256:a44d420d9b53d3087bf0cb453122859bf1af3240fda7f62a11e0fed03a8d9095
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7858c422c6cdeb0652ce47d8932da9cae4c6bf397a3d52f97b8983a9d6632484
 editions:
 - short: B
