@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0353/v1
 canonical_location: https://kanripo.org/bkk/KR6v0353/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 菩提道次第論攝頌
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6v0353_000.yaml, hash: 'sha256:20b28813515574a9e37d5a026e0b322c0adedb520d73fa3ee034b235f9bc1a6e'}
-  - {seq: 1, filename: KR6v0353_001.yaml, hash: 'sha256:5bdd0282bc55b156c08a5ce11ba26e76a3f32e3fc51670c3b0a2d475c8d9a0ea'}
+  - {seq: 1, filename: KR6v0353_001.yaml, hash: 'sha256:2d876055e6705c9def9f246dda88f440fd90b9387399dfcfe28d7b9a493e6ba4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0353_000.markers.yaml, hash: 'sha256:b1522694597bbc9719d0209936b5ec404ee39ca29a2f3f32bdb0be89035e0561'}
-  - {seq: 1, role: markers, filename: assets/KR6v0353_001.markers.yaml, hash: 'sha256:5fc34a688da7ecef56ab07f2a05ed0371e1eef29bd1c197a05cf0edee908bd2a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0353_001.markers.yaml, hash: 'sha256:6e09e6ab7a9f8299049962cbfdd06ad2bcbc3bf8c27cbde3fc21f59f86fe2dad'}
 table_of_contents:
 - ref:
     seq: 1
@@ -29,6 +29,9 @@ table_of_contents:
   label: 菩提道次第論攝頌（又名諸善樂根本頌）
   type: juan
   level: 1
-hash: sha256:7858c422c6cdeb0652ce47d8932da9cae4c6bf397a3d52f97b8983a9d6632484
+hash: sha256:c660d6b037c73b5eb375337d439040c2a7d7d5924bc684f9bc50fd5ec3d725e0
 editions:
 - short: B
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
